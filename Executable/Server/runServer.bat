@@ -1,0 +1,1 @@
+java -jar AppSyncServer.jar "C:\\Users\\Sandesh\\Desktop\\MangoApps\\Executable\\Server\\properties\\"

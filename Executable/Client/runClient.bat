@@ -1,0 +1,1 @@
+java -jar AppSyncClient.jar admin admin "C:\\Users\\Sandesh\\Desktop\\MangoApps\\Executable\\Client\\properties\\"
